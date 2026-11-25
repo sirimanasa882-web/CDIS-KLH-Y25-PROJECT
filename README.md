@@ -14,85 +14,85 @@ Our project provides a centralized cloud-based platform to solve these problems.
 
 **OBJECTIVES**
 
-Provide centralized project storage.
+1.Provide centralized project storage.
 
-Make file sharing easy and secure.
+2.Make file sharing easy and secure.
 
-Improve student collaboration and teamwork.
+3.Improve student collaboration and teamwork.
 
-Manage project tasks efficiently.
+4.Manage project tasks efficiently.
 
-Track project progress.
+5.Track project progress.
 
-Enable access to project resources from anywhere.
+6.Enable access to project resources from anywhere.
 
 **MAIN FEATURES**
 
-User Login: Allows students to securely log into the platform.
+1.User Login: Allows students to securely log into the platform.
 
-Project Workspace: Allows students to create and manage academic projects.
+2.Project Workspace: Allows students to create and manage academic projects.
 
-File Upload and Sharing: Enables students to upload, download, and share project files.
+3.File Upload and Sharing: Enables students to upload, download, and share project files.
 
-Team Collaboration: Allows students to invite team members and work together.
+4.Team Collaboration: Allows students to invite team members and work together.
 
-Task Management: Helps students assign and manage project tasks.
+5.Task Management: Helps students assign and manage project tasks.
 
-Progress Tracking: Tracks completed and pending project tasks.
+6.Progress Tracking: Tracks completed and pending project tasks.
 
-Activity Dashboard: Allows students to view project updates and activity history.
+7.Activity Dashboard: Allows students to view project updates and activity history.
 
 **WORKING OF THE PROJECT**
 
-The student logs into the platform.
+1.The student logs into the platform.
 
-The student creates a project workspace.
+2.The student creates a project workspace.
 
-The student invites team members to join the project.
+3.The student invites team members to join the project.
 
-Team members upload and share project files.
+4.Team members upload and share project files.
 
-Tasks are assigned to team members.
+5.Tasks are assigned to team members.
 
-Team members update their task completion status.
+6.Team members update their task completion status.
 
-Students monitor project progress through the dashboard.
+7.Students monitor project progress through the dashboard.
 
-Project files and information are stored securely using AWS services.
+8.Project files and information are stored securely using AWS services.
 
 **AWS SERVICES USED**
 
-Amazon EC2: Hosts the application using Docker containers.
+1.Amazon EC2: Hosts the application using Docker containers.
 
-Amazon S3: Stores project files, reports, and documents.
+2.Amazon S3: Stores project files, reports, and documents.
 
-Amazon RDS: Stores user information, project details, and task information.
+3.Amazon RDS: Stores user information, project details, and task information.
 
-Amazon VPC: Provides a secure cloud networking environment.
+4.Amazon VPC: Provides a secure cloud networking environment.
 
-AWS IAM: Manages access permissions and resource security.
+5.AWS IAM: Manages access permissions and resource security.
 
-Elastic Load Balancing: Distributes incoming application traffic.
+6.Elastic Load Balancing: Distributes incoming application traffic.
 
-EC2 Auto Scaling: Automatically adjusts computing capacity based on demand.
+7.EC2 Auto Scaling: Automatically adjusts computing capacity based on demand.
 
-Amazon CloudWatch: Monitors application performance, metrics, and logs.
+8.Amazon CloudWatch: Monitors application performance, metrics, and logs.
 
 **BENEFITS**
 
-Centralized academic project management.
+1.Centralized academic project management.
 
-Secure file storage and sharing.
+2.Secure file storage and sharing.
 
-Improved communication and teamwork.
+3.Improved communication and teamwork.
 
-Reduced file duplication and risk of data loss.
+4.Reduced file duplication and risk of data loss.
 
-Easy task management and progress tracking.
+5.Easy task management and progress tracking.
 
-Access to project resources from anywhere.
+6.Access to project resources from anywhere.
 
-Cloud-based accessibility and scalability.
+7.Cloud-based accessibility and scalability.
 
 **CONCLUSION**
 
