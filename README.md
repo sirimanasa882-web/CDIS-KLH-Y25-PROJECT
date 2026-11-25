@@ -8,10 +8,12 @@
 **Supervisor Name**: Dr.S.Vinay Kumar
 
 **PROBLEM STATEMENT**
+
 Traditionally, students use different applications for storing project files, sharing documents, managing tasks, and communicating with team members. This can cause file duplication, data loss, poor coordination, and difficulties in tracking project progress.
 Our project provides a centralized cloud-based platform to solve these problems.
 
 **OBJECTIVES**
+
 Provide centralized project storage.
 
 Make file sharing easy and secure.
@@ -25,6 +27,7 @@ Track project progress.
 Enable access to project resources from anywhere.
 
 **MAIN FEATURES**
+
 User Login: Allows students to securely log into the platform.
 
 Project Workspace: Allows students to create and manage academic projects.
